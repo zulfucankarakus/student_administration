@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A6FB91CB-38FE-4D00-923D-0C475C0099E6}|Default">
+  <MonoDevelop.Ide.ItemProperties.OgrenciYonetimUygulamasi__G024 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../OtoGaleri_G024/OtoGaleri_G024/Galeri.cs">
+    <Files>
+      <File FileName="../OtoGaleri_G024/OtoGaleri_G024/Program.cs" Line="142" Column="74" />
+      <File FileName="../OtoGaleri_G024/OtoGaleri_G024/Galeri.cs" Line="117" Column="187" />
+      <File FileName="../OtoGaleri_G024/OtoGaleri_G024/Araba.cs" Line="27" Column="41" />
+      <File FileName="OgrenciYonetimUygulamasi_G024/Program.cs" Line="252" Column="13" />
+      <File FileName="OgrenciYonetimUygulamasi_G024/Ogrenci.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OgrenciYonetimUygulamasi_G024" expanded="True">
+            <Node name="OgrenciYonetimUygulamasi_G024" expanded="True" />
+          </Node>
+          <Node name="OtoGaleri_G024" expanded="True">
+            <Node name="OtoGaleri_G024" expanded="True">
+              <Node name="Galeri.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
